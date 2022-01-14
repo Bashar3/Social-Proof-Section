@@ -96,7 +96,7 @@ body {
 }
 
 .social .row.one .rating .rate:last-child {
-    transform: translateX(50px);
+    transform: translateX(70px);
 }
 
 .social .row.one .rating .rate p {
